@@ -138,6 +138,9 @@ def nota():
       print('Menor nota:',valor_minimo4)
       print('Maior nota:', valor_maximo4) 
 
+else:
+    print('Digite uma opção válida')
+
 nota()
   
 
